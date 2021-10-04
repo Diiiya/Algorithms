@@ -1,0 +1,16 @@
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\WeightedIntervalSchedulingDelivery.exe
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\WeightedIntervalSchedulingDelivery.deps.json
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\WeightedIntervalSchedulingDelivery.runtimeconfig.json
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\WeightedIntervalSchedulingDelivery.runtimeconfig.dev.json
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\WeightedIntervalSchedulingDelivery.dll
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\ref\WeightedIntervalSchedulingDelivery.dll
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\bin\Debug\net5.0\WeightedIntervalSchedulingDelivery.pdb
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.csproj.AssemblyReference.cache
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.AssemblyInfoInputs.cache
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.AssemblyInfo.cs
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.dll
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\ref\WeightedIntervalSchedulingDelivery.dll
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.pdb
+D:\Projects\CSharp\Algorithms\WeightedIntervalSchedulingDelivery\obj\Debug\net5.0\WeightedIntervalSchedulingDelivery.genruntimeconfig.cache
